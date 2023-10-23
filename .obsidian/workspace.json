@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "ae687a65be1480be",
+    "type": "split",
+    "children": [
+      {
+        "id": "811a9c356592b489",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2912803614b0ab0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CISCO Unidad 3/prueba git sync.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f16456d238d4c2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0810f26d5bde6c26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d9e9f9f7476729c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "f860d8cd41e9027a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "34321c32356dc84d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "93de249fe7ce44fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e668d72029ce6107",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b74b8d6250a0907c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CISCO Unidad 3/prueba git sync.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24a9a62dca8fa1d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CISCO Unidad 3/prueba git sync.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "20d60578c72349c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "66cd8740ee541951",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CISCO Unidad 3/prueba git sync.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "2912803614b0ab0d",
+  "lastOpenFiles": [
+    "CISCO Unidad 3/Reglas de comunicación.md",
+    "CISCO Unidad 3/prueba git sync.md",
+    "CISCO Unidad 3/Suites de protocolos.md",
+    "CISCO Unidad 3/Capas.md",
+    "CISCO Unidad 3/Comunicacion.md",
+    "pagina1.md",
+    "CISCO Unidad 3/Protocolos.md",
+    "CISCO Unidad 3/Nombre de las PDU.md",
+    "Pasted image 20231023165831.png",
+    "CISCO Unidad 3/Organizaciones.md",
+    "Pasted image 20231023164842.png",
+    "Pasted image 20231023164546.png",
+    "Pasted image 20231023164236.png",
+    "Pasted image 20231023164129.png",
+    "Pasted image 20231023164004.png",
+    "Pasted image 20231023163957.png",
+    "Sin título",
+    "CISCO Unidad 3"
+  ]
+}
