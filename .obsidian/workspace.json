@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CISCO Unidad 3/Comunicacion.md",
+                "file": "CISCO Unidad 3/7- Nombre de las PDU.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CISCO Unidad 3/Comunicacion.md",
+                "file": "CISCO Unidad 3/7- Nombre de las PDU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CISCO Unidad 3/Comunicacion.md",
+                "file": "CISCO Unidad 3/7- Nombre de las PDU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CISCO Unidad 3/Comunicacion.md"
+                "file": "CISCO Unidad 3/7- Nombre de las PDU.md"
               }
             }
           }
@@ -144,22 +144,21 @@
       "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "obsidian42-brat:BRAT": false
+      "command-palette:Abrir paleta de comandos": false
     }
   },
   "active": "2912803614b0ab0d",
   "lastOpenFiles": [
-    "CISCO Unidad 3/Suites de protocolos.md",
-    "CISCO Unidad 3/Reglas de comunicación.md",
-    "CISCO Unidad 3/Comunicacion.md",
     "CISCO Unidad 3/prueba git sync.md",
-    "CISCO Unidad 3/Capas.md",
+    "CISCO Unidad 3/7- Nombre de las PDU.md",
+    "CISCO Unidad 3/6- Capas.md",
+    "CISCO Unidad 3/5- Organizaciones.md",
+    "CISCO Unidad 3/4- Suites de protocolos.md",
+    "CISCO Unidad 3/3- Protocolos.md",
+    "CISCO Unidad 3/2- Reglas de comunicación.md",
+    "CISCO Unidad 3/1- Comunicacion.md",
     "pagina1.md",
-    "CISCO Unidad 3/Protocolos.md",
-    "CISCO Unidad 3/Nombre de las PDU.md",
     "Pasted image 20231023165831.png",
-    "CISCO Unidad 3/Organizaciones.md",
     "Pasted image 20231023164842.png",
     "Pasted image 20231023164546.png",
     "Pasted image 20231023164236.png",
