@@ -1,0 +1,7 @@
+Fuente 
+	|
+    |
+CANAL
+	|
+	|
+Receptor
