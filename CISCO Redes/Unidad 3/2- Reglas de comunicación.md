@@ -8,23 +8,23 @@ Reglas para la comunicación entre ambas partes.
 
 
 CODIFICACIÓN
-+Codificación: La información se convierte a una forma aceptable para la transmisión.
++ Codificación: La información se convierte a una forma aceptable para la transmisión.
 
-+Decodificación: Revierte el proceso.
++ Decodificación: Revierte el proceso.
 
 
 FORMATO
-+Formato o estructura específicos. Dependen del medio.
++ Formato o estructura específicos. Dependen del medio.
 
 TAMAÑO
-+Se envía en forma de bits
-+Bits codificados en patrón de luz o electricidad.
-+Host recibe y decodifica la señal.
++ Se envía en forma de bits
++ Bits codificados en patrón de luz o electricidad.
++ Host recibe y decodifica la señal.
 
 TEMPORIZACIÓN
-+Control de flujo.
-+Tiempo de respuesta.
-+Método de acceso.
++ Control de flujo.
++ Tiempo de respuesta.
++ Método de acceso.
 
 ENTREGA
 + Unicast
