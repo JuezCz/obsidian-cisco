@@ -1,21 +1,21 @@
 Sincronizar Obsidian con repositorio de GitHub.
 
-1 - Crear repositorio en GiitHub:
+**1 - Crear repositorio en GiitHub:**
 	"Perfil de usuario"
-				+ Your repositories
-						+ New 
-							+ Configurar  repositorio (Propietario, nombre, estado...)
+		+Your repositories
+			+New 
+				+ Configurar  repositorio (Propietario, nombre, estado...)
 
 
-2 - Generar token:
-		+ Settings
-			+  <> Developer settings
+**2 - Generar token:**
+		+Setting
+			+<> Developer settings
 				+ Personal access tokens
 					+ Tokens (classic)
 						+ Generate new token
 
 
-3 - Configurar obsidian
+**3 - Configurar obsidian**
 		+ Preferencias
 			+ Complementos comunitarios
 				+ Buscar  (Buscamos BRAT, sirve para instalar plugins en fase beta). 
@@ -24,7 +24,7 @@ Sincronizar Obsidian con repositorio de GitHub.
 							+En ventana emergente ponemos direccion de github
 							"https://github.com/oscarspalk/obsidian-git-sync"
 
-4 - Vincular repositorio personal de guithub con Obsidian
+**4 - Vincular repositorio personal de guithub con Obsidian**
 	+ Preferencias
 		+Complementos comunitarios (abajo del todo)
 			+Click en Git Sync
@@ -34,10 +34,16 @@ Sincronizar Obsidian con repositorio de GitHub.
 					-Token de acceso (que creamos anteriormente).
 
 
-Sincronizando la bóveda de obsidian con repositorio de github.
+
+
+**Sincronizando la bóveda de obsidian con repositorio de github.**
 
 Mientras estamos en la ventana principal de obsidian presionamos "ctrl+p". Escribimos Git Sync y veremos las opciones disponibles.
 
-Git Sync push: Sube al repositorio la bóveda actual en la que estamos. Es la opción que usaremos habitualmente.
+>**Git Sync push**: Sube al repositorio la bóveda actual en la que estamos. Es la opción que usaremos habitualmente.
 
-Git Sync pull: Arrastramos los archivos de nuestro repositorio a nuestra bóveda de obsidian. (Cuidado, esto sobrescribirá lo que tenemos en nuestro PC.)
+>**Git Sync pull**: Arrastramos los archivos de nuestro repositorio a nuestra bóveda de obsidian.+
+
+>[!note] CUIDADO  
+>Cuidado, con PULL se sobrescribirán los datos de nuestra bóveda de obsidian local.
+
