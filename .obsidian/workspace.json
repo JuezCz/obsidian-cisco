@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CISCO Unidad 3/7- Nombre de las PDU.md",
+                "file": "Sincronizando Obsidian con GitHub.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CISCO Unidad 3/7- Nombre de las PDU.md",
+                "file": "Sincronizando Obsidian con GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CISCO Unidad 3/7- Nombre de las PDU.md",
+                "file": "Sincronizando Obsidian con GitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CISCO Unidad 3/7- Nombre de las PDU.md"
+                "file": "Sincronizando Obsidian con GitHub.md"
               }
             }
           }
@@ -144,28 +144,32 @@
       "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2912803614b0ab0d",
+  "active": "7d9e9f9f7476729c",
   "lastOpenFiles": [
+    "CISCO Redes/Unidad 3/3- Protocolos.md",
+    "Sincronizando Obsidian con GitHub.md",
+    "Notas generales",
+    "CISCO Redes/Unidad 3/Pasted image 20231023164004.png",
+    "CISCO Redes/Unidad 3/1- Comunicacion.md",
+    "CISCO Redes/Unidad 3",
+    "CISCO Redes/Unidad 4",
+    "CISCO Redes/Unidad 3/Pasted image 20231023164129.png",
+    "CISCO Redes/Unidad 3/Pasted image 20231023164236.png",
+    "CISCO Redes/Unidad 3/Pasted image 20231023164546.png",
+    "CISCO Redes/Unidad 3/Pasted image 20231023164842.png",
+    "CISCO Redes/Unidad 3/Pasted image 20231023165831.png",
+    "CISCO Redes/Unidad 3/7- Nombre de las PDU.md",
     "CISCO Unidad 3/prueba git sync.md",
-    "CISCO Unidad 3/7- Nombre de las PDU.md",
-    "CISCO Unidad 3/6- Capas.md",
-    "CISCO Unidad 3/5- Organizaciones.md",
-    "CISCO Unidad 3/4- Suites de protocolos.md",
-    "CISCO Unidad 3/3- Protocolos.md",
-    "CISCO Unidad 3/2- Reglas de comunicación.md",
-    "CISCO Unidad 3/1- Comunicacion.md",
+    "CISCO Redes/Unidad 3/6- Capas.md",
+    "CISCO Redes/Unidad 3/5- Organizaciones.md",
+    "CISCO Redes/Unidad 3/4- Suites de protocolos.md",
+    "CISCO Redes/Unidad 3/2- Reglas de comunicación.md",
     "pagina1.md",
-    "Pasted image 20231023165831.png",
-    "Pasted image 20231023164842.png",
-    "Pasted image 20231023164546.png",
-    "Pasted image 20231023164236.png",
-    "Pasted image 20231023164129.png",
-    "Pasted image 20231023164004.png",
     "Pasted image 20231023163957.png",
-    "Sin título",
-    "CISCO Unidad 3"
+    "CISCO Redes"
   ]
 }
