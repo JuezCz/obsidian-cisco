@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CISCO Redes/Unidad 4/Sin título.md",
+                "file": "Notas Generales/Sincronizando Obsidian con GitHub.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CISCO Redes/Unidad 4/Sin título.md",
+                "file": "Notas Generales/Sincronizando Obsidian con GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CISCO Redes/Unidad 4/Sin título.md",
+                "file": "Notas Generales/Sincronizando Obsidian con GitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CISCO Redes/Unidad 4/Sin título.md"
+                "file": "Notas Generales/Sincronizando Obsidian con GitHub.md"
               }
             }
           }
@@ -161,15 +161,20 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7d9e9f9f7476729c",
+  "active": "ebc67dabc4a887d3",
   "lastOpenFiles": [
+    "CISCO Redes/Unidad 3/7- Nombre de las PDU.md",
+    "CISCO Redes/Unidad 3/6- Capas.md",
+    "CISCO Redes/Unidad 3/5- Organizaciones.md",
+    "CISCO Redes/Unidad 3/4- Suites de protocolos.md",
+    "CISCO Redes/Unidad 3/3- Protocolos.md",
+    "CISCO Redes/Unidad 3/2- Reglas de comunicación.md",
+    "CISCO Redes/Unidad 3/1- Comunicacion.md",
     "Notas Generales/Sincronizando Obsidian con GitHub.md",
     "CISCO Redes/Unidad 4/Sin título.md",
     "Notas Generales",
-    "CISCO Redes/Unidad 3/3- Protocolos.md",
     "Notas generales",
     "CISCO Redes/Unidad 3/Pasted image 20231023164004.png",
-    "CISCO Redes/Unidad 3/1- Comunicacion.md",
     "CISCO Redes/Unidad 3",
     "CISCO Redes/Unidad 4",
     "CISCO Redes/Unidad 3/Pasted image 20231023164129.png",
@@ -177,12 +182,7 @@
     "CISCO Redes/Unidad 3/Pasted image 20231023164546.png",
     "CISCO Redes/Unidad 3/Pasted image 20231023164842.png",
     "CISCO Redes/Unidad 3/Pasted image 20231023165831.png",
-    "CISCO Redes/Unidad 3/7- Nombre de las PDU.md",
     "CISCO Unidad 3/prueba git sync.md",
-    "CISCO Redes/Unidad 3/6- Capas.md",
-    "CISCO Redes/Unidad 3/5- Organizaciones.md",
-    "CISCO Redes/Unidad 3/4- Suites de protocolos.md",
-    "CISCO Redes/Unidad 3/2- Reglas de comunicación.md",
     "pagina1.md",
     "Pasted image 20231023163957.png",
     "CISCO Redes"
