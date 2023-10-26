@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ebc67dabc4a887d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CISCO Redes/Unidad 4/Sin título.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas Generales/Sincronizando Obsidian con GitHub.md",
+                "file": "CISCO Redes/Unidad 4/Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas Generales/Sincronizando Obsidian con GitHub.md",
+                "file": "CISCO Redes/Unidad 4/Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas Generales/Sincronizando Obsidian con GitHub.md"
+                "file": "CISCO Redes/Unidad 4/Sin título.md"
               }
             }
           }
@@ -150,9 +163,10 @@
   },
   "active": "7d9e9f9f7476729c",
   "lastOpenFiles": [
+    "Notas Generales/Sincronizando Obsidian con GitHub.md",
+    "CISCO Redes/Unidad 4/Sin título.md",
     "Notas Generales",
     "CISCO Redes/Unidad 3/3- Protocolos.md",
-    "Notas Generales/Sincronizando Obsidian con GitHub.md",
     "Notas generales",
     "CISCO Redes/Unidad 3/Pasted image 20231023164004.png",
     "CISCO Redes/Unidad 3/1- Comunicacion.md",
