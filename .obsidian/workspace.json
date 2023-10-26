@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sincronizando Obsidian con GitHub.md",
+                "file": "Notas Generales/Sincronizando Obsidian con GitHub.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sincronizando Obsidian con GitHub.md",
+                "file": "Notas Generales/Sincronizando Obsidian con GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sincronizando Obsidian con GitHub.md",
+                "file": "Notas Generales/Sincronizando Obsidian con GitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sincronizando Obsidian con GitHub.md"
+                "file": "Notas Generales/Sincronizando Obsidian con GitHub.md"
               }
             }
           }
@@ -150,8 +150,9 @@
   },
   "active": "7d9e9f9f7476729c",
   "lastOpenFiles": [
+    "Notas Generales",
     "CISCO Redes/Unidad 3/3- Protocolos.md",
-    "Sincronizando Obsidian con GitHub.md",
+    "Notas Generales/Sincronizando Obsidian con GitHub.md",
     "Notas generales",
     "CISCO Redes/Unidad 3/Pasted image 20231023164004.png",
     "CISCO Redes/Unidad 3/1- Comunicacion.md",
