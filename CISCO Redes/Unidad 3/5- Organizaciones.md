@@ -8,4 +8,4 @@
 ![[Pasted image 20231023164546.png]]
 
 
-+IEEE: Dedicada a los estándares en una amplia gama de sectores, entre ellos las telecomunicaciones y las redes.
++ IEEE: Dedicada a los estándares en una amplia gama de sectores, entre ellos las telecomunicaciones y las redes.
