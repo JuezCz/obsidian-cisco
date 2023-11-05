@@ -4,7 +4,7 @@ Sincronizar Obsidian con repositorio de GitHub.
 	"Perfil de usuario"
 		+Your repositories
 			+New 
-				+ Configurar  repositorio (Propietario, nombre, estado...)
+				+Configurar  repositorio (Propietario, nombre, estado...)
 
 
 **2 - Generar token:**
@@ -29,9 +29,9 @@ Sincronizar Obsidian con repositorio de GitHub.
 		+Complementos comunitarios (abajo del todo)
 			+Click en Git Sync
 				+Rellenamos los 3 campos con:
-					-Nombre del repositorio
-					-Dueño del repositorio
-					-Token de acceso (que creamos anteriormente).
+					  -Nombre del repositorio
+					  -Dueño del repositorio
+					  -Token de acceso (que creamos anteriormente).
 
 
 
