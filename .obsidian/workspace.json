@@ -83,9 +83,11 @@
             "id": "613ce7eaa94eb993",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "CISCO Redes/Unidad 4/Pasted image 20231105100640.png"
+                "file": "CISCO Redes/Unidad 4/1-Capa Física.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -156,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CISCO Redes/Unidad 4/Pasted image 20231105100640.png",
+                "file": "CISCO Redes/Unidad 4/1-Capa Física.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CISCO Redes/Unidad 4/Pasted image 20231105100640.png",
+                "file": "CISCO Redes/Unidad 4/1-Capa Física.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CISCO Redes/Unidad 4/Pasted image 20231105100640.png"
+                "file": "CISCO Redes/Unidad 4/1-Capa Física.md"
               }
             }
           }
@@ -219,23 +221,23 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7d9e9f9f7476729c",
+  "active": "613ce7eaa94eb993",
   "lastOpenFiles": [
-    "CISCO Redes/Unidad 4/7- Medios inalámbricos.md",
     "CISCO Redes/Unidad 4/6- Fibra óptica.md",
-    "CISCO Redes/Unidad 4/Pasted image 20231105102120.png",
     "CISCO Redes/Unidad 4/Pasted image 20231105102111.png",
     "CISCO Redes/Unidad 4/5- Par trenzado.md",
-    "CISCO Redes/Unidad 4/Pasted image 20231105101415.png",
-    "CISCO Redes/Unidad 4/4- Cableado de cobre.md",
-    "CISCO Redes/Unidad 4/5- Propiedades del UTP.md",
-    "CISCO Redes/Unidad 4/Pasted image 20231105101049.png",
-    "CISCO Redes/Unidad 4/Pasted image 20231105101038.png",
     "CISCO Redes/Unidad 4/Pasted image 20231105100652.png",
     "CISCO Redes/Unidad 4/Pasted image 20231105100640.png",
+    "CISCO Redes/Unidad 4/4- Cableado de cobre.md",
     "CISCO Redes/Unidad 4/3- Ancho de banda.md",
     "CISCO Redes/Unidad 4/2-Cáracteristicas.md",
     "CISCO Redes/Unidad 4/1-Capa Física.md",
+    "CISCO Redes/Unidad 4/7- Medios inalámbricos.md",
+    "CISCO Redes/Unidad 4/Pasted image 20231105102120.png",
+    "CISCO Redes/Unidad 4/Pasted image 20231105101415.png",
+    "CISCO Redes/Unidad 4/5- Propiedades del UTP.md",
+    "CISCO Redes/Unidad 4/Pasted image 20231105101049.png",
+    "CISCO Redes/Unidad 4/Pasted image 20231105101038.png",
     "Notas Generales/Sincronizando Obsidian con GitHub.md",
     "CISCO Redes/Unidad 3/7- Nombre de las PDU.md",
     "CISCO Redes/Unidad 3/6- Capas.md",
