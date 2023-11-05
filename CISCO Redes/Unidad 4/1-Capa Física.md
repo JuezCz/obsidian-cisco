@@ -5,7 +5,7 @@
 + Transmite de forma secuencial.
 
 
-     **OSI                               TCP/IP**    
+     **OSI                                   TCP/IP**    
 
 **7** - Aplicación         
 **6** - Presentación            Aplicación
