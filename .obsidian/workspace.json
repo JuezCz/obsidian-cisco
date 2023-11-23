@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01c0a3880c821dbd",
+            "id": "93b039b952b13398",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CISCO Redes/Unidad 6/7-Control de acceso al medio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e86306d8e2db86fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,81 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9edf6ed363b20b3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CISCO Redes/Unidad 6/2-Subcapas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d57a7101cb51a763",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CISCO Redes/Unidad 6/3-Control de Acceso al medio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b2c26ad2a4d6037",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CISCO Redes/Unidad 6/4-Topologías.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "200ee907a73a8ee8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CISCO Redes/Unidad 6/Topologias WAN y LAN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6378e972881356d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CISCO Redes/Unidad 6/Comunicación Dúplex.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93b039b952b13398",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CISCO Redes/Unidad 6/2-Subcapas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CISCO Redes/Unidad 6/2-Subcapas.md",
+                "file": "CISCO Redes/Unidad 6/1-Enlace de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CISCO Redes/Unidad 6/2-Subcapas.md",
+                "file": "CISCO Redes/Unidad 6/1-Enlace de datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CISCO Redes/Unidad 6/2-Subcapas.md"
+                "file": "CISCO Redes/Unidad 6/1-Enlace de datos.md"
               }
             }
           }
@@ -221,11 +161,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "93b039b952b13398",
+  "active": "7d9e9f9f7476729c",
   "lastOpenFiles": [
-    "CISCO Redes/Unidad 6/Control de acceso al medio.md",
-    "CISCO Redes/Unidad 6/Comunicación Dúplex.md",
-    "CISCO Redes/Unidad 6/Topologias WAN y LAN.md",
+    "CISCO Redes/Unidad 6/8-Tramas.md",
+    "Pasted image 20231123171508.png",
+    "CISCO Redes/Unidad 6/7-Control de acceso al medio.md",
+    "CISCO Redes/Unidad 6/6-Comunicación Dúplex.md",
+    "CISCO Redes/Unidad 6/5-Topologias WAN y LAN.md",
+    "CISCO Redes/Unidad 6/2-Subcapas.md",
     "CISCO Redes/Unidad 6/Pasted image 20231123162806.png",
     "CISCO Redes/Unidad 6/4-Topologías.md",
     "CISCO Redes/Unidad 4/1-Capa Física.md",
@@ -245,7 +188,6 @@
     "CISCO Redes/Unidad 6/Pasted image 20231123161638.png",
     "CISCO Redes/Unidad 6/Pasted image 20231123161602.png",
     "CISCO Redes/Unidad 6/3-Control de Acceso al medio.md",
-    "CISCO Redes/Unidad 6/2-Subcapas.md",
     "CISCO Redes/Unidad 6/1-Enlace de datos.md",
     "CISCO Redes/Unidad 6/Pasted image 20231123155727.png",
     "CISCO Redes/Unidad 6/Pasted image 20231123155711.png",
@@ -255,7 +197,6 @@
     "CISCO Redes/Unidad 4/Pasted image 20231105100652.png",
     "CISCO Redes/Unidad 4/Pasted image 20231105100640.png",
     "CISCO Redes/Unidad 4/Pasted image 20231105102120.png",
-    "CISCO Redes/Unidad 4/Pasted image 20231105101415.png",
     "CISCO Redes/Unidad 4/5- Propiedades del UTP.md",
     "Notas Generales/Sincronizando Obsidian con GitHub.md",
     "Notas Generales",
@@ -263,7 +204,6 @@
     "CISCO Redes/Unidad 3",
     "CISCO Redes/Unidad 4",
     "CISCO Unidad 3/prueba git sync.md",
-    "pagina1.md",
     "CISCO Redes"
   ]
 }
