@@ -1,0 +1,4 @@
+
+Un switch Ethernet de capa 2 usa direcciones MAC de capa 2 para tomar decisiones de reenvío. No tiene conocimiento de los datos (protocolo) que se transportan en la porción de datos de la trama, como un paquete IPv4, un mensaje ARP o un paquete IPv6 ND. El switch toma sus decisiones de reenvío basándose únicamente en las direcciones MAC Ethernet de capa 2.
+
+Cuando un switch recibe una trama, almacena la dirección MAC en su tabla ARP.  De esta forma memoriza que MAC es accesible en un puerto especifico. De esta forma cuando necesita comunicarse con ese dispositivo enviara las tramas para el por el puerto correspondiente.
