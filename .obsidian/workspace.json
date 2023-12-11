@@ -8,31 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "93b039b952b13398",
+            "id": "764ae20eb2ce71da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CISCO Redes/Unidad 6/7-Control de acceso al medio.md",
+                "file": "CISCO Redes/Unidad 7/6- Metodos de reenvio de tramas.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e86306d8e2db86fe",
+            "id": "306933a0a4db13c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CISCO Redes/Unidad 6/1-Enlace de datos.md",
+                "file": "CISCO Redes/Unidad 7/7- Almacenamiento en búfer (Switch).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98dcd15d560c7bb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CISCO Redes/Unidad 7/8- Configuración del dúplex y velocidad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4fd38e5e22fdf115",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CISCO Redes/Unidad 7/9- Auto MDIX.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CISCO Redes/Unidad 6/1-Enlace de datos.md",
+                "file": "CISCO Redes/Unidad 7/9- Auto MDIX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CISCO Redes/Unidad 6/1-Enlace de datos.md",
+                "file": "CISCO Redes/Unidad 7/9- Auto MDIX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CISCO Redes/Unidad 6/1-Enlace de datos.md"
+                "file": "CISCO Redes/Unidad 7/9- Auto MDIX.md"
               }
             }
           }
@@ -161,16 +185,35 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7d9e9f9f7476729c",
+  "active": "4fd38e5e22fdf115",
   "lastOpenFiles": [
-    "CISCO Redes/Unidad 6/8-Tramas.md",
-    "Pasted image 20231123171508.png",
+    "CISCO Redes/Unidad 7/Pasted image 20231211170950.png",
+    "CISCO Redes/Unidad 7/8- Configuración del dúplex y velocidad.md",
+    "CISCO Redes/Unidad 7/9- Auto MDIX.md",
+    "CISCO Redes/Unidad 7/7- Almacenamiento en búfer (Switch).md",
+    "CISCO Redes/Unidad 7/Pasted image 20231211170537.png",
+    "CISCO Redes/Unidad 7/6- Metodos de reenvio de tramas.md",
+    "CISCO Redes/Unidad 7/5- Envio de tramas al Gateway predeterminado.md",
+    "CISCO Redes/Unidad 7/4- Fundamentos de Switches.md",
+    "CISCO Redes/Unidad 7/3- Direccionamiento MAC..md",
+    "CISCO Redes/Unidad 7/2-Campos de trama Ethernet.md",
+    "CISCO Redes/Unidad 7/1-Ethernet.md",
     "CISCO Redes/Unidad 6/7-Control de acceso al medio.md",
+    "CISCO Redes/Unidad 7/Pasted image 20231127101318.png",
+    "CISCO Redes/Unidad 7/Pasted image 20231127101827.png",
+    "CISCO Redes/Unidad 7/Pasted image 20231127104507.png",
+    "CISCO Redes/Unidad 7/Pasted image 20231127102354.png",
+    "CISCO Redes/Unidad 7/Pasted image 20231127102126.png",
+    "CISCO Redes/Unidad 7",
     "CISCO Redes/Unidad 6/6-Comunicación Dúplex.md",
     "CISCO Redes/Unidad 6/5-Topologias WAN y LAN.md",
-    "CISCO Redes/Unidad 6/2-Subcapas.md",
-    "CISCO Redes/Unidad 6/Pasted image 20231123162806.png",
     "CISCO Redes/Unidad 6/4-Topologías.md",
+    "CISCO Redes/Unidad 6/3-Control de Acceso al medio.md",
+    "CISCO Redes/Unidad 6/2-Subcapas.md",
+    "CISCO Redes/Unidad 6/1-Enlace de datos.md",
+    "CISCO Redes/Unidad 6/8-Tramas.md",
+    "CISCO Redes/Unidad 6/Pasted image 20231123171508.png",
+    "CISCO Redes/Unidad 6/Pasted image 20231123162806.png",
     "CISCO Redes/Unidad 4/1-Capa Física.md",
     "CISCO Redes/Unidad 4/2-Cáracteristicas.md",
     "CISCO Redes/Unidad 3/5- Organizaciones.md",
@@ -179,31 +222,14 @@
     "CISCO Redes/Unidad 4/5- Par trenzado.md",
     "CISCO Redes/Unidad 4/6- Fibra óptica.md",
     "CISCO Redes/Unidad 4/7- Medios inalámbricos.md",
-    "CISCO Redes/Unidad 3/1- Comunicacion.md",
-    "CISCO Redes/Unidad 3/2- Reglas de comunicación.md",
-    "CISCO Redes/Unidad 3/3- Protocolos.md",
-    "CISCO Redes/Unidad 3/4- Suites de protocolos.md",
-    "CISCO Redes/Unidad 4/4- Cableado de cobre.md",
-    "CISCO Redes/Unidad 4/3- Ancho de banda.md",
     "CISCO Redes/Unidad 6/Pasted image 20231123161638.png",
     "CISCO Redes/Unidad 6/Pasted image 20231123161602.png",
-    "CISCO Redes/Unidad 6/3-Control de Acceso al medio.md",
-    "CISCO Redes/Unidad 6/1-Enlace de datos.md",
-    "CISCO Redes/Unidad 6/Pasted image 20231123155727.png",
-    "CISCO Redes/Unidad 6/Pasted image 20231123155711.png",
     "CISCO Redes/Unidad 6",
     "Sin título 1",
-    "CISCO Redes/Unidad 4/Pasted image 20231105102111.png",
-    "CISCO Redes/Unidad 4/Pasted image 20231105100652.png",
-    "CISCO Redes/Unidad 4/Pasted image 20231105100640.png",
-    "CISCO Redes/Unidad 4/Pasted image 20231105102120.png",
-    "CISCO Redes/Unidad 4/5- Propiedades del UTP.md",
-    "Notas Generales/Sincronizando Obsidian con GitHub.md",
     "Notas Generales",
     "Notas generales",
     "CISCO Redes/Unidad 3",
     "CISCO Redes/Unidad 4",
-    "CISCO Unidad 3/prueba git sync.md",
     "CISCO Redes"
   ]
 }
