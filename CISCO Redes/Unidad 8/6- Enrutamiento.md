@@ -1,4 +1,4 @@
-
+re
 Los dispositivos de capa 3 contienen tablas de enrutamiento.
 
 Cuando un host envía un paquete a otro host, consulta su tabla de enrutamiento para determinar dónde enviar el paquete. Si el host de destino está en una red remota, el paquete se reenvía a la puerta de enlace predeterminada, que generalmente es el router local.
